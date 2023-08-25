@@ -4,8 +4,8 @@ Artificial Intelligence Project
 #### How to run this app in a local server using [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/concepts/environments.html) :
 1. First, install [`conda`](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) on your device. I personally recommended the _***Miniconda***_
 2. Clone this repository and go to the repo directory
-   - `git clone https://github.com/itsahyarr/heart_segmentation_app.git`
-   - `cd heart_segmentation_app`
+   - `git clone https://github.com/MRendiks/Heart-Segmentation-Web.git`
+   - `cd Heart-Segmentation-Web`
 3. Create conda environment with the configuration file `conda_env.yml`
    - `conda env create -f conda_env.yml`
 4. Activate the conda environment
